@@ -1,9 +1,11 @@
 ---
-layout: null
+layout: page
 title: CV
 permalink: /CV/
 ---
 
+\[[CV](assets/slides/Marine_CV.pdf)\]
+<!-- 
 <!DOCTYPE html>
 <html>
   <head>
@@ -13,4 +15,4 @@ permalink: /CV/
   <body>
     <p>If you are not redirected automatically, <a href="../assets/pdf/Marine_CV.pdf">click here</a>.</p>
   </body>
-</html>
+</html> -->
