@@ -1,5 +1,6 @@
 ---
 layout: null
+title: CV
 permalink: /CV/
 ---
 
