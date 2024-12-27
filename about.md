@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from: "/"
 ---
 
-<img align="center" src="../assets/marine_pic.jpg" width="230">
+<img align="center" src="assets/marine_pic.jpg" width="230">
 
 
 
