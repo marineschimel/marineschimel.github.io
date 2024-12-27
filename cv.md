@@ -11,6 +11,6 @@ permalink: /CV/
     <link rel="canonical" href="../assets/pdf/Marine_CV.pdf" />
   </head>
   <body>
-    <p>If you are not redirected automatically, <a href="assets/pdf/Marine_CV.pdf">click here</a>.</p>
+    <p>If you are not redirected automatically, <a href="../assets/pdf/Marine_CV.pdf">click here</a>.</p>
   </body>
 </html>
