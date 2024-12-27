@@ -16,7 +16,7 @@
 title: Marine Schimel
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thanks for stopping by my personal website!
+  Hello! 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://marineschimel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: marineschimel
